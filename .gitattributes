@@ -1,0 +1,5 @@
+# Force Unix line endings on scripts. On Windows, git otherwise converts
+# these to CRLF and bash fails with "$'\r': command not found".
+*.sh  text eol=lf
+*.lua text eol=lf
+*.md  text eol=lf

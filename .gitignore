@@ -1,0 +1,22 @@
+# Generated output — rebuilt by build.sh, never edited by hand
+layout/icml/
+
+# InDesign lock/recovery junk (the .indd itself IS tracked)
+*.idlk
+layout/InDesign Recovery/
+
+# Full-resolution originals and archive scans: too big for Sync and git.
+# Back these up somewhere with real storage.
+assets/originals/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian session state (the rest of .obsidian/ is tracked)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Machine-specific paths
+intake.conf

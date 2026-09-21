@@ -1,0 +1,8 @@
+# Copy this file to intake.conf and fill in your paths.
+# Git Bash path style: C:\Users\You\Documents\Notes  ->  /c/Users/You/Documents/Notes
+
+# Your personal (synced) vault:
+MAIN_VAULT="/c/Users/YOU/Documents/YourVault"
+
+# Folder inside it where phone captures go:
+INBOX="URI Inbox"
