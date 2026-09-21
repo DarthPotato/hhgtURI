@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Rebuild every entry as InDesign-placeable ICML.
-# Usage: ./build.sh            rebuild everything
+# Usage: ./build.sh rebuild everything
 #        ./build.sh entries/buildings   rebuild one section
 set -euo pipefail
 
